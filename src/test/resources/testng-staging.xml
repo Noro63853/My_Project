@@ -1,0 +1,37 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Staging" parallel="tests" thread-count="1">
+    <listeners>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+        <listener class-name="utils.TestListener"/>
+    </listeners>
+    <test name="Sample">
+        <classes>
+<!--            <class name="tests.traditional_sports.staging.BaseballMarkets"></class>-->
+<!--            <class name="tests.profile.staging.SetRealityCheck"/>-->
+<!--            <class name="tests.traditional_sports.staging.VolleyballMarkets"></class>-->
+            <class name="tests.esports.staging.EsportsTournaments"></class>
+<!--            <class name="tests.smoke.staging.OkForLogin"></class>-->
+<!--            <class name="tests.profile.staging.SetDepositLimit"></class>-->
+<!--            <class name="tests.profile.staging.SetTimeOutLimit"></class>-->
+<!--            <class name="tests.traditional_sports.staging.TennisMarkets"></class>-->
+
+
+        </classes>
+        <!--        <packages>-->
+        <!--            <package name="tests.authorization.staging"/>-->
+        <!--            <package name="tests.bet.staging"></package>-->
+        <!--            <package name="tests.bet_slip.staging"/>-->
+        <!--            <package name="tests.esports.staging"/>-->
+        <!--            <package name="tests.footer"/>-->
+        <!--            <package name="tests.general.staging"/>-->
+        <!--            <package name="tests.profile.staging"/>-->
+        <!--            <package name="tests.smoke.staging"/>-->
+        <!--            <package name="tests.traditional_sports.staging"/>-->
+        <!--        </packages>-->
+    </test>
+</suite>
+
+
+
+
+

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 5.262 s <<< FAILURE! - in TestSuite
+setup(tests.profile.staging.SetRealityCheck)  Time elapsed: 0.922 s  <<< FAILURE!
+java.lang.RuntimeException: java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "config.AppConfig.getEnvironment()" is null
+Caused by: java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because the return value of "config.AppConfig.getEnvironment()" is null
+

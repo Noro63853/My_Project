@@ -1,0 +1,30 @@
+{
+  "validUsernameForStaging": "noro2",
+  "validUsernameForProd": "yololo",
+  "validPassword": "Test123@",
+  "userBalanceForStaging": "€ 9.81",
+  "userBalanceForProd": "€ 112.85",
+
+  "emailForForgotForProd": "wgg@yopmail.com",
+  "emailForForgotForStaging": "norayr12@mailinator.com",
+
+  "notConfirmedUsernameForStaging": "Norayr36",
+  "notConfirmedUsernameForProd": "Norayr33",
+  "notConfirmedPassword": "Test123@",
+  "invalidUsername": "jndjdjd",
+
+
+  "validSignUpEmail": "testautomation1@mailinator.com",
+  "validSignUpUsername": "testAutomation1",
+  "validSignUpFirstName": "test1",
+  "validSignUpLastName": "Automations",
+  "validSignUpPassword": "Test123@",
+  "validSignUpCity": "Yerevan",
+  "validSignUpAddress1": "Alek Manukyan 9",
+  "validSignUpAddress2": "",
+  "validSignUpProvince": "Yerevan",
+  "validSignUpZipCode": "0068",
+  "validSignUpPhoneNumber": "55003694",
+
+  "invalidSignUpEmail": "gfd"
+}

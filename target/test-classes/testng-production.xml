@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Staging" parallel="tests" thread-count="1">
+    <test name="Staging tests">
+        <classes>
+            <class name="tests.bet_slip.prod.NokForBetTypes"/>
+        </classes>
+<!--        <packages>-->
+<!--            <package name="tests.authorization.prod"/>-->
+<!--            <package name="tests.bet.prod"></package>-->
+<!--            <package name="tests.bet_slip.prod"/>-->
+<!--            <package name="tests.esports.prod"/>-->
+<!--            <package name="tests.footer"/>-->
+<!--            <package name="tests.general.prod"/>-->
+<!--            <package name="tests.profile.prod"/>-->
+<!--            <package name="tests.smoke.prod"/>-->
+<!--            <package name="tests.tbd"/>-->
+<!--        </packages>-->
+    </test>
+</suite>
+
+
+
+
+

@@ -1,0 +1,6 @@
+2021-04-08 19:11:48.348 [TestNG-tests-1] WARN  utils.Log - BASE_URLhttps://win:w1nPorta2@bet.priotix.xyz
+2021-04-08 19:11:48.351 [TestNG-tests-1] WARN  utils.Log - ENVIRONMENT_NAME local
+2021-04-08 19:11:48.351 [TestNG-tests-1] WARN  utils.Log - Run on 'Local'
+2021-04-08 19:11:49.199 [TestNG-tests-1] WARN  utils.Log - BASEURLLLLLLLLLLLLLLhttps://win:w1nPorta2@bet.priotix.xyz
+2021-04-08 19:11:57.452 [TestNG-tests-1] INFO  utils.Log - ## checkTournamentsPage test method started.
+2021-04-08 19:12:18.860 [TestNG-tests-1] INFO  utils.Log - ## checkTournamentsPage test method failed.
